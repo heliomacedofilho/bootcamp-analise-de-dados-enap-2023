@@ -1,0 +1,45 @@
+region_code,region_name
+0,AFE,Africa Eastern and Southern
+1,AFR,Africa
+2,AFW,Africa Western and Central
+3,ARB,Arab World
+4,CAA,Sub-Saharan Africa (IFC classification)
+5,CEA,East Asia and the Pacific (IFC classification)
+6,CEB,Central Europe and the Baltics
+7,CEU,Europe and Central Asia (IFC classification)
+8,CLA,Latin America and the Caribbean (IFC classification)
+9,CME,Middle East and North Africa (IFC classification)
+10,CSA,South Asia (IFC classification)
+11,CSS,Caribbean small states
+12,EAP,East Asia & Pacific (excluding high income)
+13,EAR,Early-demographic dividend
+14,EAS,East Asia & Pacific
+15,ECA,Europe & Central Asia (excluding high income)
+16,ECS,Europe & Central Asia
+17,EMU,Euro area
+18,EUU,European Union
+19,FCS,Fragile and conflict affected situations
+20,HPC,Heavily indebted poor countries (HIPC)
+21,LAC,Latin America & Caribbean (excluding high income)
+22,LCN,Latin America & Caribbean 
+23,LDC,Least developed countries: UN classification
+24,LTE,Late-demographic dividend
+25,MDE,Middle East (developing only)
+26,MEA,Middle East & North Africa
+27,MNA,Middle East & North Africa (excluding high income)
+28,NAC,North America
+29,NAF,North Africa
+30,NRS,Non-resource rich Sub-Saharan Africa countries
+31,OED,OECD members
+32,OSS,Other small states
+33,PRE,Pre-demographic dividend
+34,PSS,Pacific island small states
+35,PST,Post-demographic dividend
+36,RRS,Resource rich Sub-Saharan Africa countries
+37,SAS,South Asia
+38,SSA,Sub-Saharan Africa (excluding high income)
+39,SSF,Sub-Saharan Africa 
+40,SST,Small states
+41,SXZ,Sub-Saharan Africa excluding South Africa
+42,WLD,World
+43,XZN,Sub-Saharan Africa excluding South Africa and Nigeria
