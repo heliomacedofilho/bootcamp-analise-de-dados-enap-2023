@@ -1,0 +1,218 @@
+country_code,country_name,region_code
+0,ABW,Aruba,LCN
+2,AFG,Afghanistan,SAS
+4,AGO,Angola,SSF
+5,ALB,Albania,ECS
+6,AND,Andorra,ECS
+8,ARE,United Arab Emirates,MEA
+9,ARG,Argentina,LCN
+10,ARM,Armenia,ECS
+11,ASM,American Samoa,EAS
+12,ATG,Antigua and Barbuda,LCN
+13,AUS,Australia,EAS
+14,AUT,Austria,ECS
+15,AZE,Azerbaijan,ECS
+16,BDI,Burundi,SSF
+17,BEL,Belgium,ECS
+18,BEN,Benin,SSF
+19,BFA,Burkina Faso,SSF
+20,BGD,Bangladesh,SAS
+21,BGR,Bulgaria,ECS
+22,BHR,Bahrain,MEA
+23,BHS,"Bahamas, The",LCN
+24,BIH,Bosnia and Herzegovina,ECS
+25,BLR,Belarus,ECS
+26,BLZ,Belize,LCN
+27,BMU,Bermuda,NAC
+28,BOL,Bolivia,LCN
+29,BRA,Brazil,LCN
+30,BRB,Barbados,LCN
+31,BRN,Brunei Darussalam,EAS
+32,BTN,Bhutan,SAS
+33,BWA,Botswana,SSF
+34,CAF,Central African Republic,SSF
+35,CAN,Canada,NAC
+37,CHE,Switzerland,ECS
+38,CHI,Channel Islands,ECS
+39,CHL,Chile,LCN
+40,CHN,China,EAS
+41,CIV,Cote d'Ivoire,SSF
+42,CMR,Cameroon,SSF
+43,COD,"Congo, Dem. Rep.",SSF
+44,COG,"Congo, Rep.",SSF
+45,COL,Colombia,LCN
+46,COM,Comoros,SSF
+47,CPV,Cabo Verde,SSF
+48,CRI,Costa Rica,LCN
+50,CUB,Cuba,LCN
+51,CUW,Curacao,LCN
+52,CYM,Cayman Islands,LCN
+53,CYP,Cyprus,ECS
+54,CZE,Czechia,ECS
+55,DEU,Germany,ECS
+56,DJI,Djibouti,MEA
+57,DMA,Dominica,LCN
+58,DNK,Denmark,ECS
+59,DOM,Dominican Republic,LCN
+60,DZA,Algeria,MEA
+66,ECU,Ecuador,LCN
+67,EGY,"Egypt, Arab Rep.",MEA
+69,ERI,Eritrea,SSF
+70,ESP,Spain,ECS
+71,EST,Estonia,ECS
+72,ETH,Ethiopia,SSF
+75,FIN,Finland,ECS
+76,FJI,Fiji,EAS
+77,FRA,France,ECS
+78,FRO,Faroe Islands,ECS
+79,FSM,"Micronesia, Fed. Sts.",EAS
+80,GAB,Gabon,SSF
+81,GBR,United Kingdom,ECS
+82,GEO,Georgia,ECS
+83,GHA,Ghana,SSF
+84,GIB,Gibraltar,ECS
+85,GIN,Guinea,SSF
+86,GMB,"Gambia, The",SSF
+87,GNB,Guinea-Bissau,SSF
+88,GNQ,Equatorial Guinea,SSF
+89,GRC,Greece,ECS
+90,GRD,Grenada,LCN
+91,GRL,Greenland,ECS
+92,GTM,Guatemala,LCN
+93,GUM,Guam,EAS
+94,GUY,Guyana,LCN
+96,HKG,"Hong Kong SAR, China",EAS
+97,HND,Honduras,LCN
+99,HRV,Croatia,ECS
+100,HTI,Haiti,LCN
+101,HUN,Hungary,ECS
+106,IDN,Indonesia,EAS
+108,IMN,Isle of Man,ECS
+109,IND,India,SAS
+111,IRL,Ireland,ECS
+112,IRN,"Iran, Islamic Rep.",MEA
+113,IRQ,Iraq,MEA
+114,ISL,Iceland,ECS
+115,ISR,Israel,MEA
+116,ITA,Italy,ECS
+117,JAM,Jamaica,LCN
+118,JOR,Jordan,MEA
+119,JPN,Japan,EAS
+120,KAZ,Kazakhstan,ECS
+121,KEN,Kenya,SSF
+122,KGZ,Kyrgyz Republic,ECS
+123,KHM,Cambodia,EAS
+124,KIR,Kiribati,EAS
+125,KNA,St. Kitts and Nevis,LCN
+126,KOR,"Korea, Rep.",EAS
+127,KWT,Kuwait,MEA
+129,LAO,Lao PDR,EAS
+130,LBN,Lebanon,MEA
+131,LBR,Liberia,SSF
+132,LBY,Libya,MEA
+133,LCA,St. Lucia,LCN
+137,LIE,Liechtenstein,ECS
+138,LKA,Sri Lanka,SAS
+141,LSO,Lesotho,SSF
+143,LTU,Lithuania,ECS
+144,LUX,Luxembourg,ECS
+145,LVA,Latvia,ECS
+146,MAC,"Macao SAR, China",EAS
+147,MAF,St. Martin (French part),LCN
+148,MAR,Morocco,MEA
+149,MCO,Monaco,ECS
+150,MDA,Moldova,ECS
+151,MDG,Madagascar,SSF
+152,MDV,Maldives,SAS
+154,MEX,Mexico,LCN
+155,MHL,Marshall Islands,EAS
+157,MKD,North Macedonia,ECS
+158,MLI,Mali,SSF
+159,MLT,Malta,MEA
+160,MMR,Myanmar,EAS
+162,MNE,Montenegro,ECS
+163,MNG,Mongolia,EAS
+164,MNP,Northern Mariana Islands,EAS
+165,MOZ,Mozambique,SSF
+166,MRT,Mauritania,SSF
+167,MUS,Mauritius,SSF
+168,MWI,Malawi,SSF
+169,MYS,Malaysia,EAS
+171,NAM,Namibia,SSF
+172,NCL,New Caledonia,EAS
+173,NER,Niger,SSF
+174,NGA,Nigeria,SSF
+175,NIC,Nicaragua,LCN
+176,NLD,Netherlands,ECS
+177,NOR,Norway,ECS
+178,NPL,Nepal,SAS
+179,NRU,Nauru,EAS
+180,NZL,New Zealand,EAS
+182,OMN,Oman,MEA
+184,PAK,Pakistan,SAS
+185,PAN,Panama,LCN
+186,PER,Peru,LCN
+187,PHL,Philippines,EAS
+188,PLW,Palau,EAS
+189,PNG,Papua New Guinea,EAS
+190,POL,Poland,ECS
+192,PRI,Puerto Rico,LCN
+193,PRK,"Korea, Dem. People's Rep.",EAS
+194,PRT,Portugal,ECS
+195,PRY,Paraguay,LCN
+196,PSE,West Bank and Gaza,MEA
+199,PYF,French Polynesia,EAS
+200,QAT,Qatar,MEA
+201,ROU,Romania,ECS
+202,RUS,Russian Federation,ECS
+203,RWA,Rwanda,SSF
+205,SAU,Saudi Arabia,MEA
+206,SDN,Sudan,SSF
+207,SEN,Senegal,SSF
+208,SGP,Singapore,EAS
+209,SLB,Solomon Islands,EAS
+210,SLE,Sierra Leone,SSF
+211,SLV,El Salvador,LCN
+212,SMR,San Marino,ECS
+213,SOM,Somalia,SSF
+214,SRB,Serbia,ECS
+216,SSD,South Sudan,SSF
+219,STP,Sao Tome and Principe,SSF
+220,SUR,Suriname,LCN
+221,SVK,Slovak Republic,ECS
+222,SVN,Slovenia,ECS
+223,SWE,Sweden,ECS
+224,SWZ,Eswatini,SSF
+225,SXM,Sint Maarten (Dutch part),LCN
+226,SYC,Seychelles,SSF
+227,SYR,Syrian Arab Republic,MEA
+228,TCA,Turks and Caicos Islands,LCN
+229,TCD,Chad,SSF
+232,TGO,Togo,SSF
+233,THA,Thailand,EAS
+234,TJK,Tajikistan,ECS
+235,TKM,Turkmenistan,ECS
+237,TLS,Timor-Leste,EAS
+239,TON,Tonga,EAS
+242,TTO,Trinidad and Tobago,LCN
+243,TUN,Tunisia,MEA
+244,TUR,Turkiye,ECS
+245,TUV,Tuvalu,EAS
+246,TZA,Tanzania,SSF
+247,UGA,Uganda,SSF
+248,UKR,Ukraine,ECS
+250,URY,Uruguay,LCN
+251,USA,United States,NAC
+252,UZB,Uzbekistan,ECS
+253,VCT,St. Vincent and the Grenadines,LCN
+254,VEN,"Venezuela, RB",LCN
+255,VGB,British Virgin Islands,LCN
+256,VIR,Virgin Islands (U.S.),LCN
+257,VNM,Vietnam,EAS
+258,VUT,Vanuatu,EAS
+260,WSM,Samoa,EAS
+261,XKX,Kosovo,ECS
+262,YEM,"Yemen, Rep.",MEA
+263,ZAF,South Africa,SSF
+264,ZMB,Zambia,SSF
+265,ZWE,Zimbabwe,SSF
